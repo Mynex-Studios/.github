@@ -7,6 +7,6 @@
   <a href="https://mynexstudios.com" target="_blank">🌐 Website</a>
   •
   <a href="https://discord.com/nVVRwfPCrw" target="_blank">☎️ Discord</a>
- <!-- •
-  <a href="https://github.com/Mynex-Studios/repo/discussions" target="_blank">💬 Discussions</a> -->
+  •
+  <a href="https://github.com/Mynex-Studios/discussions/discussions" target="_blank">💬 Discussions</a>
 </p>
